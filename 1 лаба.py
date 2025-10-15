@@ -1,3 +1,4 @@
+#Багринцев Даниил Михайлович
 first_name, last_name = map(str, input("Ваше имя и фамилия? ").split())
 age = int(input("Возраст? "))
 adress = input("Место жительства? ")

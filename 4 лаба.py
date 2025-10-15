@@ -1,3 +1,5 @@
+#Багринцев Даниил Михалович
+#2 вариант
 a, b = map(int, input("Enter A and B ").split())
 if (a < b):
 	for i in range(a, b + 1):

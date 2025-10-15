@@ -1,3 +1,5 @@
+#Багринцев Даниил Михайлович
+#2 вариант
 fir_num, sec_num, third_num = map(int, input("Enter the numbers ").split())
 if (fir_num>=1 and fir_num <=3):
 	print(fir_num,"Подходит")
